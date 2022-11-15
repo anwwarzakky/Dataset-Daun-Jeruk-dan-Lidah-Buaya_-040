@@ -1,6 +1,3 @@
-# Dataset-Daun-Jeruk-dan-Lidah-Buaya_-040
-202010370311040 -  Mohammad Zaki
-
 # Kecerdasan_Buatan
 1. Lidah Buaya
 A. Apa itu Lidah Buaya ?
@@ -23,3 +20,4 @@ a. Menghentikan pendarahan Daun sirih memiliki sifat styptic alias penahan penda
 b. Obat batuk  Anda sedang menderita batuk? Daun sirih bisa jadi solusinya. Asal tahu saja, daun sirih mengandung senyawa aktif yang mampu mengentikan batuk.  Cara menggunakan daun sirih sebagai obat batuk adalah dengan di kumur-kumur. Anda bisa merebus daun sirih segar sampai mendidih. Saat air rebusan daun sirih sudah cukup hangat, Anda bisa gunakan untuk berkumur.  
 c. Menghilangkan bau mulut  Bau mulut..Oh Big No..No. Setiap orang pasti merasa tidak nyaman saat mulutnya mengelurkan bau yang tidak sedap.  Alih-alih berkumur dengan cairan kimia, Anda bisa berkumur dengan air rebusan daun sirih. Sekedar info, daun sirih memiliki aroma yang khas yang bisa membuat mulut Anda jadi lebih wangi.  Selain itu, daun sirih juga bersifat antiseptik sehingga bisa melindungi mulut Anda dari bakteri.  
 d. Obat tekanan darah tinggi  Mengutip dai Jurnal Ilmu Keperawatan Komunitas Volume 1 No 1, hal 34-42 Mei 2018, daun sirih mengandung flavonoid yang berperan sebagai penurun tekanan darah dalam tubuh. 
+
